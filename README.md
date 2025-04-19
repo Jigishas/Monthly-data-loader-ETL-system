@@ -38,6 +38,4 @@ python monthly_data_loader.py
 - Replace the placeholder data extraction function with actual streaming data extraction logic as needed.
 - The script manages monthly execution by tracking the last run timestamp.
 
-## License
 
-MIT License
